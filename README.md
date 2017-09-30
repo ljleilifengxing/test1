@@ -5,3 +5,4 @@ master
 A
 branch-A
 check
+check
